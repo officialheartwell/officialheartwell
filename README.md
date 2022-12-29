@@ -92,7 +92,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialheartwell&show_icons=true&locale=en&layout=compact" alt="officialheartwell" /></p><br>
 
-![officialheartwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=officialheartwell&show_icons=true&theme=radical)<br>
+<img src="https://github-readme-stats.vercel.app/api?username=officialheartwell&show_icons=true&theme=radical" alt="officialheartwell">
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=officialheartwell&" alt="officialheartwell" /></p>
 
