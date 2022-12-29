@@ -83,8 +83,8 @@
 <img align="left" alt="devicon"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-plain.svg" />
 
 
-<br />
-<br />
+<br>
+<br>
 
 <h3 align="left">Support:</h3><br>
 
@@ -92,7 +92,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialheartwell&show_icons=true&locale=en&layout=compact" alt="officialheartwell" /></p><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=officialheartwell&show_icons=true&locale=en" alt="officialheartwell" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=officialheartwell&show_icons=true&locale=en" alt="officialheartwell" />
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=officialheartwell&" alt="officialheartwell" /></p><br><br>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=officialheartwell&" alt="officialheartwell" />
 
