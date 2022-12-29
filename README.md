@@ -90,10 +90,8 @@
 
 <p><a href="https://www.buymeacoffee.com/officialheartwell"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="officialheartwell" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialheartwell&show_icons=true&locale=en&layout=compact" alt="officialheartwell" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialheartwell&show_icons=true&locale=en&layout=compact" alt="officialheartwell" /></p><br><br>
 
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=officialheartwell&show_icons=true&theme=radical" alt="officialheartwell">
-
-
 <img align="right" width="47%"  src="https://github-readme-streak-stats.herokuapp.com/?user=officialheartwell&" alt="officialheartwell" />
 
