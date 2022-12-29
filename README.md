@@ -49,6 +49,8 @@
 
 - ⚡ Fun fact **I'm interesting & passionate about learning.**
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/heartwellokorie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heartwellokorie" height="30" width="40" style="padding-right:10px;" /></a>
@@ -59,6 +61,8 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxrllc0k89-ylvgjljlxpww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxrllc0k89-ylvgjljlxpww" height="30" width="40" style="padding-right:10px;" /></a>
 <a href="https://discord.gg/https://discordapp.com/user/977715753606340638" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/user/977715753606340638" height="30" width="40" style="padding-right:10px;" /></a>
 </p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -81,8 +85,6 @@
 <img align="left" alt="google"  width="70px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" />
 
 <img align="left" alt="devicon"  width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-plain.svg" />
-
-
 <br>
 <br>
 
