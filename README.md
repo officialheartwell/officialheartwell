@@ -31,7 +31,7 @@
 <p align="left"> <a href="https://twitter.com/heartwellokorie" target="blank"><img src="https://img.shields.io/twitter/follow/heartwellokorie?logo=twitter&style=for-the-badge" alt="heartwellokorie" /></a> </p>
 
 
-<img align="right" width="460" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47adq3efjpt3l1n6cdlek9aafb51z9qtpn2jq69uur&rid=giphy.gif&ct=g" alt="Coding">
+<img align="right" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47adq3efjpt3l1n6cdlek9aafb51z9qtpn2jq69uur&rid=giphy.gif&ct=g" alt="Coding">
 
 
 
