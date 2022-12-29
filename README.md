@@ -92,6 +92,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialheartwell&show_icons=true&locale=en&layout=compact" alt="officialheartwell" /></p><br><br>
 
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=officialheartwell&show_icons=true&theme=radical" alt="officialheartwell">
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=officialheartwell&show_icons=true&theme=radical" alt="officialheartwell"><br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=officialheartwell&" alt="officialheartwell" />
 
