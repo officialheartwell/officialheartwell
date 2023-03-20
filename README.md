@@ -2,7 +2,7 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 
 
-<h1 align="center">Hi 👋, I'm ɭ'៣ Ϧ៩♬ƦƬƜ៩ɭɭ Oƙσɾιҽ</h1>
+<h1 align="center">Hi 👋, ɭ'៣ Ϧ៩♬ƦƬƜ៩ɭɭ Oƙσɾιҽ</h1>
 <p align="center">
   <!-- Typing SVG by officiailheartwell - https://github.com/officialheartwell/readme-typing-svg -->
   <a href="https://github.com/officialheartwell/readme-typing-svg">
