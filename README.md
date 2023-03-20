@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by officiailheartwell - https://github.com/officialheartwell/readme-typing-svg -->
   <a href="https://github.com/officialheartwell/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20web%20developer;technical%20Writer;Learning%20UI%2FUX%20Designing;1+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20web%20developer;technical%20Writer;%20UI%2FUX%20Designing;2+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <h3 align="center">A passionate Software developer 💻, Construction Technologies 🏗🏛 and a Youtuber 🎙, skilled in Developing Web Application, from Nigeria!</h3>
