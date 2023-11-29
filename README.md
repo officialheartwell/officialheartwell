@@ -30,7 +30,7 @@
 <h2 align="center">⚒️ Backend-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,Nodejs,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=Nodejs,javascript,typescript" />
     <br>
 </div>
 
@@ -46,7 +46,7 @@
 <h2 align="center">⚒️ Design-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,corelDraw,adobeXD,Canva" />
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,corelDraw,Indesign,Canva" />
     <br>
 </div>
 
