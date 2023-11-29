@@ -57,3 +57,32 @@
     <img src="https://skillicons.dev/icons?i=figma,photoshop,adobeXD" />
     <br>
 </div>
+
+
+
+
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/officialheartwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/officialheartwell" height="30" width="40" /></a>
+<a href="https://twitter.com/heartwellokorie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heartwellokorie" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/heartwell-okorie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/heartwell-okorie" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20888453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20888453" height="30" width="40" /></a>
+<a href="https://instagram.com/officialheartwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="officialheartwell" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/officialheartwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/officialheartwell" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/heartwll_okorie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/heartwll_okorie" height="30" width="40" /></a>
+<a href="https://hashnode.com/@officialheartwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@officialheartwell" height="30" width="40" /></a>
+<a href="https://medium.com/@heartwellokorie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@heartwellokorie" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/heartwell heartwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="heartwell heartwell" height="30" width="40" /></a>
+<a href="https://discord.gg/officialheartwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="officialheartwell" height="30" width="40" /></a>
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=officialheartwell&show_icons=true&locale=en&layout=compact" alt="officialheartwell" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=officialheartwell&show_icons=true&locale=en" alt="officialheartwell" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=officialheartwell&" alt="officialheartwell" /></p>
