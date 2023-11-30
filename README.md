@@ -56,7 +56,7 @@
 <h2 align="center">⚒️ DevOps-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,Termux,vscode,bash,command prompt,git bash," />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,Termux,vscode,bash,command prompt,git bash" />
     <br>
 </div>
 
