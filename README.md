@@ -48,7 +48,7 @@
 <h2 align="center">⚒️ Backend-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=Nodejs,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=Node.js,javascript,typescript" />
     <br>
 </div>
 
