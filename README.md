@@ -56,7 +56,7 @@
 <h2 align="center">⚒️ DevOps-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,Termux,vscode,bash,command prompt,git bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,Termux,vscode,bash" />
     <br>
 </div>
 
@@ -64,7 +64,7 @@
 <h2 align="center">⚒️ Design-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,Adobe Indesign,CorelDRAW,Canva" />
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,AdobeIndesign,CorelDRAW,Canva" />
     <br>
 </div>
 
